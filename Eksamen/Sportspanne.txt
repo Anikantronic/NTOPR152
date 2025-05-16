@@ -1,0 +1,5 @@
+1,Bulls,10,5
+2,Sharks,12,3
+0,Cheetahs,8,7
+3,Stormers,9,6
+4,Lions,11,4
