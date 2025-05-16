@@ -1,0 +1,10 @@
+001,Apple,1.50
+002,Banana,0.75
+003,Orange,1.25
+004,Grapes,2.50
+005,Mango,1.75
+006,Pineapple,3.00
+007,Strawberry,2.00
+008,Watermelon,4.00
+009,Blueberry,3.50
+010,Peach,1.80
